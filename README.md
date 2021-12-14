@@ -51,9 +51,9 @@ This website is just a clean website where you can check my progress once in a w
    git clone https://github.com/DominicV1/portfolio-hard.git
    ```
 2. Database
-```sh 
-Insert att/insert.sql into your db and change the user/pass if needed.
-```
+    ```sh 
+    Insert att/insert.sql into your db and change the user/pass if needed.
+    ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
